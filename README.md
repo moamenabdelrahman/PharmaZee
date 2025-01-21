@@ -4,8 +4,8 @@
 ## Users & General Features:
 - **Anonymous User:**
   - Browse products [[Demo](https://www.youtube.com/watch?v=tvxgBsvQFJ0)]
-  - Signup [[Demo]()]
-  - Login [[Demo]()]
+  - Signup [[Demo](https://www.youtube.com/watch?v=degQeP4FR0M)]
+  - Login [[Demo](https://www.youtube.com/watch?v=cW8U5thBxX0)]
 - **Customer:**
   - Add items to the shopping cart & place an order [[Demo](https://www.youtube.com/watch?v=GjxBt2RjqHQ)]
   - Upload prescription & place an order [[Demo](https://www.youtube.com/watch?v=IkpS3tlXE0c)]
@@ -19,7 +19,7 @@
 - **Pending Employee:**
   - Just empty home page (Can’t do any administrative actions) [[Demo](https://www.youtube.com/watch?v=ymo6E23ycT4)]
 - **Employee:**
-  - Review prescription [[Demo]()]
+  - Review prescription [[Demo](https://www.youtube.com/watch?v=JbMe1J_sYuI)]
 ## Detailed User Flow Diagram:
 - Check the whole diagram [here](https://www.figma.com/board/gCmXiCSFfppBjQrXCiRa1L/PharmaZeeUserFlow?node-id=0-1&t=cXcemz27GHI2Uqpc-1)
 - A glance of it
